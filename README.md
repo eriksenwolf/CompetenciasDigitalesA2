@@ -7,7 +7,17 @@ Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/er
 ## Bienvenida al curso
 Te doy la bienvenida a este curso, donde aprenderás a desarrollar un portfolio digital utilizando la plataforma que mejor se adapte a tus necesidades. Aunque puedes elegir la herramienta que prefieras, en las explicaciones me centraré en Notion, ya que considero que tiene un gran potencial y es sencilla de utilizar.
 
-El curso está estructurado en siete unidades clave:
+## 🔹 Domina las Competencias Digitales con un Portfolio Profesional 🔹
+
+¿Eres docente y quieres mejorar tus competencias digitales? En este curso aprenderás a crear un portfolio digital que impulse tu desarrollo profesional, utilizando herramientas clave para la enseñanza y aplicando metodologías inclusivas.
+
+## 💡 ¿Qué aprenderás?
+✅ Organizar tu portfolio con Notion (o la plataforma que elijas). </br>
+✅ Aplicar metodologías activas y estrategias inclusivas con DUA. </br>
+✅ Mejorar la seguridad digital y aplicar buenas prácticas en el aula. </br>
+✅ Evaluar competencias y crear contenido audiovisual. </br>
+
+## 📌 Estructura del curso:
 
 1. **DigCompEdu** – Marco europeo de competencias digitales para docentes.
 
@@ -46,6 +56,10 @@ A continuación, puedes acceder a un ejemplo de portfolio digital hecho en Notio
 <p align="center">
 <a href= "https://eriksenwolf.notion.site/Competencias-Digitales-A2-1d04e3ab08e3803bbb43dcaf8bb6ae5d?pvs=4">Portfolio A2 en Notion</a>
 </p>
+
+</br>
+
+<h2 align="center">¡Comencemos! 🚀</h2> </br>
 
 ## Licencia
 Este proyecto se distribuye bajo la licencia 
