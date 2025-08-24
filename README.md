@@ -1,4 +1,4 @@
-# CompetenciasDigitalesA2
+# Competencias Digitales A2
 Materiales abiertos del curso de Competencias Digitales A2
 
 ## Apoya mi trabajo
