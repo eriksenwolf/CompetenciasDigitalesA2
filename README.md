@@ -38,7 +38,7 @@ Cabe destacar que el portfolio fue subido en su día a Moodlegunea, plataforma e
 A lo largo de estas unidades, irás adquiriendo las habilidades necesarias para aplicar la tecnología en tu práctica docente y fortalecer tu competencia digital.
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=nZoJhBpPfVev&format=png&color=000000" alt="NotionIcon" />
+  <img src="https://img.icons8.com/?size=100&id=uVERmCBZZACL&format=png&color=000000" alt="NotionIcon" />
 </p>
 
 A continuación, puedes acceder a un ejemplo de portfolio digital hecho en Notion:
