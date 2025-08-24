@@ -34,7 +34,10 @@ A lo largo de estas unidades, irás adquiriendo las habilidades necesarias para 
 
 ![Notion](https://img.icons8.com/?size=100&id=X5tAievwwoBl&format=png&color=000000)
 
-A continuación, puedes acceder a un ejemplo de portfolio digital hecho en Notion: [Portfolio A2 en Notion](https://eriksenwolf.notion.site/Competencias-Digitales-A2-1d04e3ab08e3803bbb43dcaf8bb6ae5d?pvs=4)
+A continuación, puedes acceder a un ejemplo de portfolio digital hecho en Notion:
+<a href="(https://eriksenwolf.notion.site/Competencias-Digitales-A2-1d04e3ab08e3803bbb43dcaf8bb6ae5d?pvs=4)" style="display:inline-block; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Portfolio A2 en Notion</a>
+
+[Portfolio A2 en Notion](https://eriksenwolf.notion.site/Competencias-Digitales-A2-1d04e3ab08e3803bbb43dcaf8bb6ae5d?pvs=4)
 
 ## Licencia
 Este proyecto se distribuye bajo la licencia 
