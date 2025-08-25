@@ -22,21 +22,21 @@ La mitad de esta tarea ya la tenéis hecha. El cuestionario SELFIE que deberías
 - Test “¿Qué has aprendido sobre el marco DigCompEdu?” (Mismo test que el anterior, disponible en Moodlegunea).
 
 # Enlaces de interés
-- DigCompEdu https://digigunea.euskadi.eus/es/digcompedu1
+- <a href="https://digigunea.euskadi.eus/es/digcompedu1">DigCompEdu</a>
 
-- Empieza aquí: Notion.
+- <a href="https://drive.google.com/file/d/1KQmeATKyRw3WO3xhXYZCGueQrcsQV_nM/view?usp=sharing">Empieza aquí: Notion</a>
 
-- Guía complementaria de Notion.
+- <a href="https://drive.google.com/file/d/19khFziNFQ3iyyZQqh3x6fsLdluD6DkM_/view?usp=sharing">Guía complementaria de Notion</a>
 
-- SELFIE for teachers.
+- <a href="https://education.ec.europa.eu/es/selfie-for-teachers">SELFIE for teachers</a>
 
-- Guía Notion (opcional).
+- <a href="https://www.notion.com/es-es/help/guides">Guía Notion (opcional)</a>
 
-- Moodlegunea.
+- <a href="https://moodlegune.hezkuntza.net/?lang=es">Moodlegunea</a>
 
-- Digigunea.
+- <a href="https://digigunea.euskadi.eus/es/hasiera">Digigunea</a>
 
-- Berritzegune.
+- <a href="http://a01.berritzeguneak.net/eu/">Berritzegune</a>
 
 ## Apoya mi trabajo
 Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/eriksenwolf?locale.x=es_ES&country.x=ES)
