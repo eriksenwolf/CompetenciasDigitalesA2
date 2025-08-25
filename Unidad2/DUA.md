@@ -51,8 +51,11 @@ Vídeos y presentación sobre “Diseño Universal para el Aprendizaje (DUA)”
 
 # Tarea 2.2: Analiza un recurso y comparte en el foro una opinión con reflexión (10-15 líneas).
 - Menciona el recurso que vas a analizar y, a continuación, escribe tu reflexión.
-**Ejemplo:**
 
+**Ejemplo:**
+  <p align="center">
+    <img src="./a2-2-2.png" alt="foro" />
+  </p>
 - Test “¿Qué has aprendido sobre el marco IDU/DUA?”
   
 
