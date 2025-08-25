@@ -58,6 +58,20 @@ Vídeos y presentación sobre “Diseño Universal para el Aprendizaje (DUA)”
   </p>
 - Test “¿Qué has aprendido sobre el marco IDU/DUA?”
   
+<details>
+  <summary>
+    <h2>Enlaces de interés</h2>
+  </summary>
+  <p>
+    <ul><a href="https://www.canva.com/">Canva.</a></ul>
+    <ul>Kahoot.</ul>
+    <ul>Powtoon.</ul>
+    <ul>Pinterest.</ul>
+    <ul>Clipchamp.</ul>
+    <ul>Canal de YouTube de Clipchamp.</ul>
+  </p>
+</details>
+
 
 ## Apoya mi trabajo
 Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/eriksenwolf?locale.x=es_ES&country.x=ES)
