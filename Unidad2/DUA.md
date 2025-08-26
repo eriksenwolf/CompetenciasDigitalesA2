@@ -56,8 +56,10 @@ Vídeos y presentación sobre “Diseño Universal para el Aprendizaje (DUA)”
   <p align="center">
     <img src="./a2-2-2.png" alt="foro" />
   </p>
-- Test “¿Qué has aprendido sobre el marco IDU/DUA?”
+
   
+  * Test “¿Qué has aprendido sobre el marco IDU/DUA?”
+
 <details>
   <summary>
     <h2>Enlaces de interés</h2>
