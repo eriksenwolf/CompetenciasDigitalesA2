@@ -14,7 +14,7 @@ En este módulo, exploraremos cómo trabajar con medios audiovisuales y las lice
      - Elige una licencia.
      - Pon en la portada de tu portfolio el tipo de licencia que deseas (debes incluir el pictograma y la descripción que lo acompaña).
   
-<p align="center"><img src="https://www.safecreative.org/blog/es/wp-content/uploads/2023/03/tipos-de-licencias-creative-commons-1024x576.jpg" width=400px/></p>
+<p align="center"><img src="https://pressbooks.uwf.edu/app/uploads/sites/22/2021/08/Creative-Commons-licences-types-meaning.png" width=600px/></p>
 
 # Tarea 7.2: Presentación Digital
 * Creación y edición de vídeo (6min. máximo).
