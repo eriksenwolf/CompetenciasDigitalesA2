@@ -15,9 +15,11 @@ En este módulo, profundizarás en la netiqueta y las normas de convivencia digi
 
 **Ejemplo de infografía:**
 
-Enlace a Infografía de Canva.
+* [Enlace a Infografía de Canva.](https://www.canva.com/design/DAFWGZpelWo/hVmHjno5Etde7xJjauD1CQ/view?utm_content=DAFWGZpelWo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Test: “Comprueba tu aprendizaje sobre ciberseguridad y ciberconvivencia.”
+* Test: “Comprueba tu aprendizaje sobre ciberseguridad y ciberconvivencia.”
+
+<p align="center"><img src="https://lluviadigital.com/wp-content/uploads/2024/07/man-8809517_1280-1024x670.png" width=400px/> </p>
 
 ## Apoya mi trabajo
 Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/eriksenwolf?locale.x=es_ES&country.x=ES)
