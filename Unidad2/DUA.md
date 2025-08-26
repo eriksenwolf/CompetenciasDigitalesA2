@@ -74,6 +74,7 @@ Vídeos y presentación sobre “Diseño Universal para el Aprendizaje (DUA)”
   </p>
 </details>
 
+<h2 align="center"><a href="https://erikdiazfernandez.weebly.com/dua.html">Unidad 2 Weebly</a></h2>
 
 ## Apoya mi trabajo
 Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/eriksenwolf?locale.x=es_ES&country.x=ES)
