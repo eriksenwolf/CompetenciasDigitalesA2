@@ -64,11 +64,11 @@ Vídeos y presentación sobre “Diseño Universal para el Aprendizaje (DUA)”
   </summary>
   <p>
     <ul><a href="https://www.canva.com/">Canva.</a></ul>
-    <ul>Kahoot.</ul>
-    <ul>Powtoon.</ul>
-    <ul>Pinterest.</ul>
-    <ul>Clipchamp.</ul>
-    <ul>Canal de YouTube de Clipchamp.</ul>
+    <ul><a href="https://kahoot.com/schools/">Kahoot.</a></ul>
+    <ul><a href="https://www.powtoon.com/">Powtoon.</a></ul>
+    <ul><a href="https://es.pinterest.com/">Pinterest.</a></ul>
+    <ul><a href="https://clipchamp.com/es/">Clipchamp.</a></ul>
+    <ul><a href="https://www.youtube.com/@clipchampcom">Canal de YouTube de Clipchamp.</a></ul>
   </p>
 </details>
 
