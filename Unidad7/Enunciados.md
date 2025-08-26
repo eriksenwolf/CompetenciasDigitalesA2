@@ -14,7 +14,7 @@ En este módulo, exploraremos cómo trabajar con medios audiovisuales y las lice
      - Elige una licencia.
      - Pon en la portada de tu portfolio el tipo de licencia que deseas (debes incluir el pictograma y la descripción que lo acompaña).
   
-<p align="center"><img src="https://pressbooks.uwf.edu/app/uploads/sites/22/2021/08/Creative-Commons-licences-types-meaning.png" width=600px/></p>
+<p align="center"><img src="https://www.rockandrollarmy.com/magazine/wp-content/uploads/2006/09/Creative-Commons-Logo.png" width=400px/></p>
 
 # Tarea 7.2: Presentación Digital
 * Creación y edición de vídeo (6min. máximo).
@@ -34,6 +34,8 @@ Para esta tarea, puedes hacerte un guion con lo que vas a explicar y prepararte 
     - Reflexión final: ¿Qué has aprendido en este curso? ¿Qué vas a poner en marcha con tus alumnos en un futuro breve? ¿Cuáles son tus debilidades y fortalezas en la competencia digital?
     - **INSERTA EL VÍDEO EN EL PORTFOLIO** (Recomiendo subirlo a YouTube en oculto y pegar el enlace)
 * **Test:** “¿Has aprendido algo sobre Medios Audiovisuales y licencias?”
+
+<p align="center"><img src="https://startinup.up.gov.in/wp-content/uploads/2023/01/Digital-presentation-amico.png" width=400px/></p>
 
 <h2 align="center"><a href="https://erikdiazfernandez.weebly.com/mediosaudiovisuales.html">Unidad 7 Weebly</a></h2>
 
