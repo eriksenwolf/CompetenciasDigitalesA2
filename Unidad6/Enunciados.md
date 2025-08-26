@@ -25,9 +25,18 @@ He preparado tanto la parte que corresponde al docente en el ejercicio como la p
     - Selecciona cada competencia del marco y sitúala en alguna de las fases de un estado de aprendizaje.
     - Explica por qué sitúas cada competencia en esa fase.
       </br>
-      **Plantilla sugerida: Tabla “Competencia digital del alumnado“.**
+      **Plantilla sugerida: Tabla "Competencia digital del alumnado".**
       </br>
-      <table border="1" cellpadding="6" cellspacing="0">
+  - Crea un recurso:
+      - Elige un ejercicio de la tabla creada previamente.
+      - Crea un formulario o cuestionario (Google Forms) para desarrollar esa actividad.
+      - Inserta el formulario en tu Portfolio Digital.
+        </br>
+        [Ejemplo de formulario.](https://forms.gle/Kq2M4Ts2uKzwMccR7)
+</br>
+
+**Tabla "Competencia digital del alumnado"**
+<table align="center" border="1" cellpadding="6" cellspacing="0">
   <thead>
     <tr>
       <th>Competencia digital del alumnado</th>
@@ -69,13 +78,8 @@ He preparado tanto la parte que corresponde al docente en el ejercicio como la p
     </tr>
   </tbody>
 </table>
-<ul>Crea un recurso:
-<li> Elige un ejercicio de la tabla creada previamente.</li>
-<li>Crea un formulario o cuestionario (Google Forms) para desarrollar esa actividad.</li>
-<li>Inserta el formulario en tu Portfolio Digital.</li>
-</br><a href="https://forms.gle/Kq2M4Ts2uKzwMccR7">Ejemplo de formulario.</a></ul>
 
-<h2 align="center"><a href="">Unidad 6 Weebly</a></h2>
+<h2 align="center"><a href="https://erikdiazfernandez.weebly.com/competenciadigitaldelalumnado.html">Unidad 6 Weebly</a></h2>
 
 ## Apoya mi trabajo
 Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/eriksenwolf?locale.x=es_ES&country.x=ES)
