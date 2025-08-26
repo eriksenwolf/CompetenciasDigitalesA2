@@ -81,5 +81,9 @@ He preparado tanto la parte que corresponde al docente en el ejercicio como la p
 
 <h2 align="center"><a href="https://erikdiazfernandez.weebly.com/competenciadigitaldelalumnado.html">Unidad 6 Weebly</a></h2>
 
+<details><summary><h2>Enlaces de interés</h2></summary>
+  <ul><li><a href="https://workspace.google.com/intl/es/business/?utm_source=google&utm_medium=cpc&utm_campaign=emea-es-all-es-dr-bkws-all-super-trial-e-t1-1011339&utm_content=text-ad-none-none-DEV_c-CRE_733479659733-ADGP_Hybrid+%7C+BKWS+-+MIX+%7C+Txt+-+Brand+-+GWS+-+Business-KWID_43700081525643328-kwd-346911454270-userloc_9207619&utm_term=KW_google%20workspace-g&gad_source=1&gclid=CjwKCAjwnPS-BhBxEiwAZjMF0jRtVkTOO2xgYf3kvK0d3_CPgAzt2hBTYwFLRwUG2JBCCaEw_y5C3BoCEvEQAvD_BwE&gclsrc=aw.ds">Google Workspace</a></li></ul>
+</details>
+
 ## Apoya mi trabajo
 Si quieres apoyar este curso, puedes hacerlo aquí: [Donar](https://paypal.me/eriksenwolf?locale.x=es_ES&country.x=ES)
